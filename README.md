@@ -8,7 +8,7 @@
 
 - 🌱 Currently diving into **Node.js/Express.js to add robust, scalable functionality to web projects**
 
-- ✉️ You can contact me at [ayushjaiswal15532](mailto:ayushjaiswal15532@example.com)
+- ✉️ You can contact me at [ayushjaiswal15532@gmail.com](mailto:ayushjaiswal15532@gmail.com)
 
 - 🛠 Working on backend integration for a food website
 

@@ -6,7 +6,7 @@
 
 - 🌍 I'm based in India
 
-- 🌱 Currently diving into **Node.js/Express.js to add robust, scalable functionality to web projects**
+- 🌱 Currently diving into **Spring Boot to add robust, scalable functionality to web projects**
 
 - ✉️ You can contact me at [ayushjaiswal15532@gmail.com](mailto:ayushjaiswal15532@gmail.com)
 

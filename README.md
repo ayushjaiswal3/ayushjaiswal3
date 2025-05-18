@@ -1,5 +1,7 @@
 <h1 align="left"><marquee behavior="scroll" direction="left">Hi 👋 My name is Ayush Jaiswal</marquee></h1>
 <h3 align="left">Front-End Developer</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, My name is Ayush Jaiswal
+
 
 
 

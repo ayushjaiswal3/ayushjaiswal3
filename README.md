@@ -45,7 +45,7 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayushjaiswal3/" target="_blank" rel="noreferrer">
+  <a href="[https://www.linkedin.com/in/ayushjaiswal3/](https://www.linkedin.com/in/ayush-jaiswal155/)" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/u/ayushjaiswal3/" target="_blank" rel="noreferrer">

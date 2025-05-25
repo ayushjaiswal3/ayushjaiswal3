@@ -1,21 +1,21 @@
 <h1>Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> My name is Ayush Jaiswal</h1>
-<h3 align="left">Front-End Developer</h3>
+<h3 align="left">Full Stack Developer</h3>
 
 
 
 
 
 <p align="left">
-  Front-End React Developer | Crafting interactive web experiences with a strong focus on performance and responsiveness.<br>
+  Full Stack Developer | Crafting interactive web experiences with a strong focus on performance and responsiveness.<br>
   Turning ideas into efficient and visually compelling web applications.<br>
   Let’s create impactful user interfaces that engage and inspire! 🚀 <br>
-  <strong>#ReactJS #WebDevelopment</strong>
+  <strong>#ReactJS #SpringBoot #FullStackDevelopment</strong>
 </p>
 
 - 🌍 Based in India  
 - 🌱 Currently diving into <strong>Spring Boot</strong> to add robust, scalable backend functionality  
-- ✉️ Contact me at: [ayushjaiswal15532@gmail.com](mailto:ayushjaiswal15532@gmail.com)  
-- 🛠 Working on backend integration for a food website project  
+- ✉ Contact me at: [ayushjaiswal15532@gmail.com](mailto:ayushjaiswal15532@gmail.com)  
+- 🛠 Worked on backend integration for a food website project  
 - 🚀 Building skills in server-side logic and API architecture for seamless full-stack solutions  
 
 <h3 align="left">Skills</h3>
@@ -29,12 +29,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+</a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
@@ -45,13 +45,13 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-jaiswal155/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ayushjaiswal3/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/ayushjaiswal15532/" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/u/ayushjaiswal3/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/ayushjaisuvor/" target="_blank" rel="noreferrer">
+  <a href="https://www.geeksforgeeks.org/user/ayushjaiswal3/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40"/>
   </a>
 </p>
@@ -61,9 +61,9 @@
 
 ## Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jaiswal155/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushjaiswal15532/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushjaiswal3/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushjaiswal3/)
 
 ---
 
@@ -80,4 +80,3 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushjaiswal3&theme=dark)
-
